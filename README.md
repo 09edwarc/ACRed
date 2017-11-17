@@ -1,3 +1,2 @@
 # ACRed
-hi
-test
+
